@@ -18,7 +18,7 @@
 <p>Setup</p>
 <ul>
     <li>Download the zip file <a href="https://github.com/iamfaysal/YouTube_Channel_Statistics/archive/master.zip">YouTube_Channel_Statistics</a></li>
-    <li>Or using git- $ git clone https://github.com/iamfaysal/YouTube_Channel_Statistics.git </li>
+    <li>Or using git- <code> $ git clone https://github.com/iamfaysal/YouTube_Channel_Statistics.git </code></li>
     <li>Copy the config.sample.php file to config.php</li>
     <li>Add database credentials to config.php</li>
     <li>Add YouTube API key to config.php Learn How to get an YouTube Data API from <a target="_blank" href="https://www.youtube.com/watch?v=SzlG5Qnjd4Y">Here</a></li>
