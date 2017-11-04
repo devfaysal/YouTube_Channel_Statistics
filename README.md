@@ -24,7 +24,9 @@
     <li>Add YouTube API key to config.php Learn How to get an YouTube Data API from <a target="_blank" href="https://www.youtube.com/watch?v=SzlG5Qnjd4Y">Here</a></li>
     <li>Run yourdomain.com/directory/install.php</li>
     <li>After successful installation, remove the install.php file </li>
-    <li>Enjoy</li>
+    <li>Enjoy! add youtube channel</li>
+    <li>You can run the app manually to store the statistics of the channel you added or you can add a Cron job to run yourdomain/directory/app.php for you at a certain time everyday. Learn how to setup cron job in cpanel from <a target="_blank" href="https://www.youtube.com/watch?v=WzIqEJkK_pM">here</a> </li>
+    
 </ul>
 
 <p>If you have any question, feel free to contact me: faysal@faysal.me</p>
