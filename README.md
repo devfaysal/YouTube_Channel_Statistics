@@ -6,7 +6,7 @@
     <li>Daily Subscriber Count</li>
     <li>Daily uploaded Video Count</li>
 </ul>
-
+<p>Check the demo <a target="_blank" href="http://faysal.me/sandbox/youtube_channel_statistics/index.php">YouTube Channel Statistics</a></p>
 <p>Once you setup the app, you can add as much YouTube channel as you wish</p>
 <p>Requirements</p>
 <ul>
@@ -26,7 +26,7 @@
     <li>After successful installation, remove the install.php file </li>
     <li>Enjoy! add youtube channel</li>
     <li>You can run the app manually to store the statistics of the channel you added or you can add a Cron job to run yourdomain/directory/app.php for you at a certain time everyday. Learn how to setup cron job in cpanel from <a target="_blank" href="https://www.youtube.com/watch?v=WzIqEJkK_pM">here</a> </li>
-    
+
 </ul>
 
 <p>If you have any question, feel free to contact me: faysal@faysal.me</p>
