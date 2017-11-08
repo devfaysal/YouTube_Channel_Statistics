@@ -8,14 +8,14 @@
         $channel_info = mysqli_fetch_array($result_set);
         if($channel_info){
             $sql = "SELECT * FROM yt_channel_data WHERE `yt_channel_id` = $id";
-       
+
             $result = mysqli_query($link, $sql);
         }
-        
+
     }else{
         header("Location: index.php");
     }
-    
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -44,8 +44,11 @@
                         <thead>
                             <tr>
                                 <th>View Count</th>
+                                <th>Today's View</th>
                                 <th>Subscriber Count</th>
+                                <th>Today's Subscriber</th>
                                 <th>Video Count</th>
+                                <th>Today's Video</th>
                                 <th>Date</th>
                             </tr>
                         </thead>
@@ -53,8 +56,11 @@
                             <?php while($channel = mysqli_fetch_array($result)):?>
                             <tr>
                                 <td><?php echo $channel['viewCount']?></td>
+                                <td><?php echo $channel['todaysView']?></td>
                                 <td><?php echo $channel['subscriberCount']?></td>
+                                <td><?php echo $channel['todaysSubscriber']?></td>
                                 <td><?php echo $channel['videoCount']?></td>
+                                <td><?php echo $channel['todaysVideo']?></td>
                                 <td><?php echo $channel['date']?></td>
                             </tr>
                             <?php endwhile; ?>
