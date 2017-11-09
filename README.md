@@ -1,5 +1,11 @@
 <h1>YouTube Channel Statistics</h1>
 <p>This small app can store daily statistics of YouTube channel</p>
+
+![ytcm1](https://user-images.githubusercontent.com/16212149/32591004-81a3588c-c547-11e7-8063-a0e4971ed939.png)
+
+
+![ytcm2](https://user-images.githubusercontent.com/16212149/32591021-98654f08-c547-11e7-94de-531e8644da03.png)
+
 <p>Currently it can store:</p>
 <ul>
     <li>Daily View Count</li>
