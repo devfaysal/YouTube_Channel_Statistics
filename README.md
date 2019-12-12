@@ -12,7 +12,9 @@
     <li>Daily Subscriber Count</li>
     <li>Daily uploaded Video Count</li>
 </ul>
-<p>Check the demo <a target="_blank" href="http://faysal.me/sandbox/youtube_channel_statistics/index.php">YouTube Channel Statistics</a></p>
+
+# If you have any question, feel free to contact me: faysal@faysal.me
+
 <p>Once you setup the app, you can add as much YouTube channel as you wish</p>
 <p>Requirements</p>
 <ul>
