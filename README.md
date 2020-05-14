@@ -13,8 +13,6 @@
     <li>Daily uploaded Video Count</li>
 </ul>
 
-# If you have any question, feel free to contact me: faysal@faysal.me
-
 <p>Once you setup the app, you can add as much YouTube channel as you wish</p>
 <p>Requirements</p>
 <ul>
@@ -37,4 +35,4 @@
 
 </ul>
 
-<p>If you have any question, feel free to contact me: faysal@faysal.me</p>
+<p>If you have any question, feel free to contact me: devfaysal@gmail.com</p>
